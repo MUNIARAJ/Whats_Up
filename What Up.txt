@@ -11,3 +11,7 @@ Author: Arulprasath
 4. Attachements (Image, Audi, Video) code
 
 5. Hiding the Last Seen
+
+6. Add Call feature
+
+7. Add video feature
